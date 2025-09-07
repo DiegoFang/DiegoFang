@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hello! I'm __Mingzhi Fang (房明智)__, a sophomore student in __Nanyang Technological University__ who is pursuing __Bachelor of Electrical and Electronic Engineering__ degree. 
+
+
+🔬🔬🚗🎹🎻📖📘📗📒📬📭📧
+
+
 <!--
 **DiegoFang/DiegoFang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

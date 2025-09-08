@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-Hello! I'm __Mingzhi Fang (房明智)__, a sophomore student in __Nanyang Technological University__ who is pursuing __Bachelor of Electrical and Electronic Engineering__ degree. 
+Hello! I'm __Mingzhi Fang (房明智)__, a sophomore student in __Nanyang Technological University__ who is pursuing __Bachelor of Electrical and Electronic Engineering__ degree.  
 
 
-🔬🔬🚗🎹🎻📖📘📗📒📬📭📧
+🔬🔬🚗🎹🎻📖📘📗
+
+__📒Education__  
+
+
+📬📭📧
 
 
 <!--

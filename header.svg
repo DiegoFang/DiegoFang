@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Mingzhi Fang — Optics, electronics, computation</title>
+<desc id="desc">Dark technical banner with cyan and violet optical waveforms.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d1b"/><stop offset="1" stop-color="#15102b"/></linearGradient>
+ <linearGradient id="beam"><stop stop-color="#46e5ff"/><stop offset=".55" stop-color="#82aaff"/><stop offset="1" stop-color="#c480ff"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8aabdf" stroke-opacity=".09"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="6"/></filter>
+</defs>
+<rect width="1200" height="380" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="20" fill="url(#grid)"/>
+<circle cx="990" cy="190" r="132" fill="none" stroke="#7c75ff" stroke-opacity=".2"/>
+<circle cx="990" cy="190" r="103" fill="none" stroke="#7c75ff" stroke-opacity=".2" stroke-dasharray="4 9"/>
+<path d="M720 190C750 190 750 100 780 100S810 280 840 280S870 100 900 100S930 280 960 280S990 100 1020 100S1050 280 1080 280S1110 190 1160 190" stroke="url(#beam)" stroke-width="8" fill="none" filter="url(#glow)" opacity=".6"/>
+<path d="M720 190C750 190 750 100 780 100S810 280 840 280S870 100 900 100S930 280 960 280S990 100 1020 100S1050 280 1080 280S1110 190 1160 190" stroke="url(#beam)" stroke-width="2" fill="none"/>
+<path d="M705 190H1170" stroke="#93b5ed" stroke-opacity=".25"/>
+<rect x="58" y="62" width="6" height="20" rx="3" fill="#55e5dd"/>
+<text x="80" y="78" fill="#9caac5" font-family="Consolas,monospace" font-size="14" letter-spacing="3">ENGINEERING AT THE INTERFACE</text>
+<text x="58" y="177" fill="#f1f5ff" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="68" letter-spacing="-2">Mingzhi Fang</text>
+<text x="62" y="222" fill="#a3b5d4" font-family="Segoe UI,Arial,sans-serif" font-size="22">Light. Signals. Systems.</text>
+<path d="M62 259H640" stroke="url(#beam)" stroke-opacity=".5"/>
+<text x="62" y="299" fill="#62deeb" font-family="Consolas,monospace" font-size="14" letter-spacing="2">OPTICS / ELECTRONICS / COMPUTATION</text>
+<text x="62" y="331" fill="#7285a8" font-family="Consolas,monospace" font-size="12">NTU SINGAPORE · GEORGIA TECH EXCHANGE · 2026</text>
+</svg>

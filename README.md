@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="assets/header.svg" width="100%" alt="Mingzhi Fang — Light. Signals. Systems." />
+<img src="header.svg" width="100%" alt="Mingzhi Fang — Light. Signals. Systems." />
 
 <br><br>
 
